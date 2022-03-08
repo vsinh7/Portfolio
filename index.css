@@ -101,9 +101,10 @@ ol{
  /* HEADER */
  
  .hero-image{
-     max-width: 400px;
-     /* margin: auto;
-     display: block; */
+    max-width: 395px;
+    width: 175px;
+    margin: 10px;
+    border-radius: 61px;
  }
 .hero{
     text-align: center;
